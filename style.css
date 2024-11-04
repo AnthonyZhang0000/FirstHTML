@@ -8,15 +8,6 @@ a:hover {
   color: black;
   border: 2px solid #B6D0E2;
 }
-footer{
-    background-color: lightgrey;
-    width: 100%;
-    padding: 25px;
-    border: 25px solid navy;
-    margin: 25px;
-    border-radius: 15px;
-
-    font-size: 2em;
-    text-align: center;
-    font-weight: bold;
+footer {
+  display: block;
 }
