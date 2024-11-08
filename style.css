@@ -8,6 +8,6 @@ a:hover {
   color: black;
   border: 2px solid #B6D0E2;
 }
-#id {
-margin-left: 24px;
+.my-class{
+font-size:48px;
 }
